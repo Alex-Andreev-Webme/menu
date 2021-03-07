@@ -12,7 +12,6 @@
 @import url('../blocks/menu/__arrow/_turned/menu__arrow_turned.css');
 @import url('../blocks/menu/__sub/menu__sub.css');
 @import url('../blocks/menu/__sub/_visible/menu__sub_visible.css');
-@import url('../blocks/menu/__sub-elem/menu__sub-elem.css');
 @import url('../blocks/menu/__link/menu__link.css');
-@import url('../blocks/footer/footer.css');
-@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/shuffle/shuffle.css');
+@import url('../blocks/menu/__link/_shuffled/menu__link_shuffled.css');

@@ -2,5 +2,6 @@
 	box-sizing: border-box;
 	padding: 15px;
 	width: 290px;
+	height: 100vh;
 	border: 2px dashed #00d8ff;
 }
