@@ -1,0 +1,6 @@
+.menu__title {
+	margin: 0;
+	font-size: 18px;
+	font-weight: 400;
+	transition: .2s ease;
+}
