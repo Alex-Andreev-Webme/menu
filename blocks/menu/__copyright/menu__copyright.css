@@ -1,0 +1,10 @@
+.menu__copyright {
+	margin: 0;
+	font-size: 15px;
+	line-height: 1.2;
+	color: rgba(255, 255, 255, .2);
+	position: absolute;
+	left: 15px;
+	bottom: 15px;
+	pointer-events: none;
+}
