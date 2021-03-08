@@ -1,6 +1,17 @@
 .menu__link_type_copyright {
+	display: inline-block;
 	font-size: 15px;
 	line-height: 1.2;
 	color: rgba(255, 255, 255, .2);
-	pointer-events: none;
+}
+
+.menu__link_type_copyright::after {
+	content: url("../../../../images/github.svg");
+	margin-left: 5px;
+	vertical-align: middle;
+}
+
+.menu__link_type_copyright:hover {
+	color: rgba(255, 255, 255, .2);
+	transform: translateX(0);
 }
