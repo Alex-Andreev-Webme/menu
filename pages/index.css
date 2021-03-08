@@ -14,5 +14,5 @@
 @import url('../blocks/menu/__sub/_visible/menu__sub_visible.css');
 @import url('../blocks/menu/__link/menu__link.css');
 @import url('../blocks/shuffle/shuffle.css');
+@import url('../blocks/menu/__link/_type/menu__link_type_copyright.css');
 @import url('../blocks/menu/__link/_shuffled/menu__link_shuffled.css');
-@import url('../blocks/menu/__copyright/menu__copyright.css');

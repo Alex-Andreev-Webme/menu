@@ -1,8 +1,4 @@
-.menu__copyright {
-	margin: 0;
-	position: absolute;
-	left: 15px;
-	bottom: 15px;
+.menu__link_type_copyright {
 	font-size: 15px;
 	line-height: 1.2;
 	color: rgba(255, 255, 255, .2);
