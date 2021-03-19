@@ -27,7 +27,7 @@ function shuffleInLinks() {
 			clearInterval(id)
 			i = 0
 		}
-	}, 25)
+	}, 50)
 }
 
 function shuffleOutLinks() {
@@ -40,7 +40,7 @@ function shuffleOutLinks() {
 				subMenu.classList.remove('menu__sub_visible')
 			}, 50)
 		}
-	}, 25)
+	}, 50)
 }
 
 menuToggle.addEventListener('click', toggleMenu)
